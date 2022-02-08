@@ -4509,6 +4509,16 @@ textarea.form-control-lg {
   color: #fff;
 }
 
+.navbar-sep {
+  padding-left: 15%;
+  padding-right: 15% ;
+}
+
+.navbar-sep hr{
+  color: rgba(255,255,255,0.2);
+  height:5pt;
+}
+
 .card {
   position: relative;
   display: flex;
