@@ -186,6 +186,10 @@ dl {
   margin-bottom: 1rem;
 }
 
+li:not(:last-child) { 
+  margin-bottom: 15px;  
+}
+
 ol ol,
 ul ul,
 ol ul,
