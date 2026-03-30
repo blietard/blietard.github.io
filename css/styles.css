@@ -219,6 +219,14 @@ small, .small {
   font-size: 0.875em;
 }
 
+.medium-list {
+  font-size: 1.15rem;
+}
+
+.medium-list li {
+  margin-bottom: 10px;
+}
+
 mark, .mark {
   padding: 0.2em;
   background-color: #fcf8e3;
